@@ -21,7 +21,7 @@ public class PageAdmin extends JFrame implements ActionListener {
     }
 
     private void setupUI() {
-        setTitle(role.equals("superadmin") ? "Superadmin Dashboard" : "Admin Dashboard");
+        setTitle(role.equals("superadmin") ? "Superadmin Dashboardd" : "Admin Dashboard");
         setSize(1000, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
