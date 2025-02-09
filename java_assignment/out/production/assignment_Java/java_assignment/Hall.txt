@@ -1,0 +1,3 @@
+Al qa,Banquet Hall,100,300
+Al noTime,Meeting Room,50,30
+Al baik,Auditorium,300,1000

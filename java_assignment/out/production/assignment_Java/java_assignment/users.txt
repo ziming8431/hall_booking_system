@@ -1,0 +1,5 @@
+S001,Scheduler,a,333,sfd,123456
+M002,Manager,abdullah,112,@faf,123456
+C001,Customer,abdullah,111,@faf,123456
+C002,Customer,Ali,111,ali@gmail.com,1234567891
+M003,Manager,Abdullah,111,dsasf,232

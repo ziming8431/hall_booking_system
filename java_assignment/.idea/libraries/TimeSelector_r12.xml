@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TimeSelector_r12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../GUI/src/TimeSelector_r12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
